@@ -6,7 +6,7 @@ from telegram import Update
 from telegram.ext import ApplicationBuilder, ContextTypes, CommandHandler, MessageHandler, filters
 
 # توکن خود را دقیقاً بین دو کوتیشن بگذارید
-TOKEN = '8671698456:AAFH9YYpxR6eBuvJPjIvCGVXKFSbinZjcjI'
+TOKEN = '8671698456:AAFLp4i0BEgFDj9YDLNEH5qk9KRaljkbQbM'
 
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
 
